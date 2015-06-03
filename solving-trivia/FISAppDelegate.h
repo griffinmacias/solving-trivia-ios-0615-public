@@ -10,6 +10,6 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
--(NSString*) solveTrivia;
+-(NSString *) solveTrivia;
 
 @end
